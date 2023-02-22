@@ -1,0 +1,202 @@
+id:ID,Name,Age,Gender,Income,LoanAmount,TrustLevel,LoanStatus,LoanPurpose,:LABEL
+429004198012064135,酆固光,39,Male,18099,18948,Excellent,Fully Paid,house,user
+420684199211056654,韩冠庆,27,Male,9481,23810,Medium,Applying,everyday life,user
+513331199506078313,顾茂国,24,Male,3732,6382,BlackList,Paying,everyday life,user
+411503197005293514,山顺,49,Male,17850,38682,Medium,Paying,vehicle,user
+210105197509153207,苍冰,44,Female,14873,23903,BlackList,Fully Paid,everyday life,user
+341822195703249110,胥策,62,Male,31713,88262,Medium,Applying,tuition,user
+230604197002206379,奚峰清,49,Male,18501,55503,High,No Data,No Data,user
+321283196909173633,戎承,50,Male,31736,90419,Medium,Paying,vehicle,user
+440785198105271830,应刚宁,38,Male,9453,20101,Excellent,Paying,tuition,user
+350524197110217250,郁群泽,48,Male,5990,17970,Low,No Data,No Data,user
+654026198903086445,庚春,30,Female,5106,3119,BlackList,Fully Paid,tuition,user
+131026196812226544,隗娟竹,51,Female,30976,24145,BlackList,Applying,house,user
+441521199102210067,滕卿,28,Female,11810,20108,BlackList,Paying,everyday life,user
+140602199908154026,牛伊,20,Female,6113,18339,High,No Data,No Data,user
+520102198807098708,匡婵蓉,31,Female,8970,8134,Low,Fully Paid,vehicle,user
+230205196810215561,郎丹,51,Female,10994,8050,Medium,Applying,house,user
+140107196306284505,方月,56,Female,10767,32301,High,No Data,No Data,user
+230402196605281721,伊秋婷,53,Female,16802,33087,Low,Fully Paid,tuition,user
+620725197909125878,扶诚,40,Male,9770,14323,Medium,Fully Paid,vehicle,user
+141125196611248113,卜之波,53,Male,18593,23657,Low,Paying,tuition,user
+411481197406029693,洪光,45,Male,18589,55767,Low,No Data,No Data,user
+622901200010181778,孙诚,19,Male,9615,28845,BlackList,No Data,No Data,user
+532301195803109535,咸之,61,Male,10619,12102,Critical,Applying,house,user
+410505196611141414,文飞军,53,Male,10127,25187,Excellent,Applying,vehicle,user
+500111199601284632,扈信利,23,Male,9448,8999,High,Paying,vehicle,user
+230202196308080715,荀和,56,Male,7901,23703,Medium,No Data,No Data,user
+340405200012117503,寇娣,19,Female,19677,4541,Medium,Applying,everyday life,user
+410327199112257377,经航斌,28,Male,23935,25099,Low,Applying,vehicle,user
+630104199705229141,於颖凡,22,Female,12854,38562,BlackList,No Data,No Data,user
+410901199604118748,崔华娣,23,Female,29854,76560,Medium,Fully Paid,vehicle,user
+511325196509221446,潘苑颖,54,Female,3958,8019,Excellent,Fully Paid,vehicle,user
+510682196903155464,简露婵,50,Female,2563,905,Low,Fully Paid,vehicle,user
+411702196901173463,荀凝,50,Female,31125,55921,Excellent,Fully Paid,tuition,user
+431230198705063971,郎永,32,Male,8213,11189,Critical,Applying,everyday life,user
+340303199904019093,龚辉,20,Male,12123,7314,Excellent,Fully Paid,tuition,user
+320602199710157341,於洁,22,Female,18500,55500,Medium,No Data,No Data,user
+411221198211154297,殳维博,37,Male,3840,9708,Excellent,Paying,vehicle,user
+320505196312301666,杨璧莺,56,Female,19903,26595,Excellent,Paying,house,user
+510812199510079835,陶峰顺,24,Male,30356,83042,Medium,Applying,everyday life,user
+411628195501144348,晁薇,64,Female,14989,44967,Excellent,No Data,No Data,user
+360781197301018464,松香,46,Female,2084,5285,Low,Paying,vehicle,user
+513325197510300261,嵇枝,44,Female,11616,34848,High,No Data,No Data,user
+430581198805095739,朱武,31,Male,14305,58,Excellent,Paying,tuition,user
+510923197108063405,席羽,48,Female,24192,72576,Excellent,No Data,No Data,user
+350825196309232511,孟龙平,56,Male,12404,37212,High,No Data,No Data,user
+320301198506303327,奚眉,34,Female,13040,30169,Critical,Paying,tuition,user
+120105199911032789,郁锦,20,Female,6105,2887,Low,Paying,everyday life,user
+350429196804064754,黎绍成,51,Male,19212,33229,Critical,Paying,everyday life,user
+542301197006273745,班瑞,49,Female,11054,2857,Excellent,Paying,house,user
+420222198110113857,蔡发,38,Male,30536,91608,Low,No Data,No Data,user
+520222195803017752,司健,61,Male,13667,15007,BlackList,Paying,vehicle,user
+230826196408209003,杜纨,55,Female,6735,20205,Critical,No Data,No Data,user
+310106197507108161,马馨,44,Female,9179,27537,Medium,No Data,No Data,user
+341182198806074219,暨翔奇,31,Male,11444,34332,Excellent,No Data,No Data,user
+532601199902170416,晏翔坚,20,Male,28641,9429,Medium,Paying,house,user
+350623197102267931,邢江杰,48,Male,27753,47160,Excellent,Paying,tuition,user
+530302200008205268,狄瑞枝,19,Female,10530,5617,BlackList,Paying,tuition,user
+140522196404249762,利媛,55,Female,17752,53256,Excellent,No Data,No Data,user
+150601198501099119,阚敬,34,Male,22570,41619,High,Paying,vehicle,user
+410883198106012413,瞿政,38,Male,18727,56181,Medium,No Data,No Data,user
+371325198610261456,终旭,33,Male,9403,8877,Medium,Paying,everyday life,user
+530621199101035671,边涛平,28,Male,12994,38982,Low,No Data,No Data,user
+510182198801023137,冷勇,31,Male,6345,19035,Low,No Data,No Data,user
+653222199207238641,康妹,27,Female,22465,21208,Medium,Applying,vehicle,user
+320381197302248335,夏启伟,46,Male,24940,29775,Low,Applying,vehicle,user
+653127199203304048,薛璧瑶,27,Female,12543,37344,Low,Applying,house,user
+330702197007154665,穆秀,49,Female,11955,234,High,Applying,house,user
+451302197002012230,耿民,49,Male,27290,81870,Low,No Data,No Data,user
+410621199906025849,康育,20,Female,23293,44485,Low,Applying,house,user
+130181196811290395,贾泽伯,51,Male,3489,3779,Medium,Paying,vehicle,user
+321084199801029155,储天,21,Male,9112,24111,Low,Fully Paid,everyday life,user
+610822199201123113,易星,27,Male,11478,34434,Low,No Data,No Data,user
+230203199303092487,寇莺馨,26,Female,11993,35979,Low,No Data,No Data,user
+530922199010174299,夔祥,29,Male,30693,55404,High,Paying,house,user
+370724197501043364,汪菁,44,Female,12879,38637,Excellent,No Data,No Data,user
+621102198808294850,暨行,31,Male,14207,42621,BlackList,No Data,No Data,user
+610331198707162025,毕荷,32,Female,25748,62528,BlackList,Fully Paid,everyday life,user
+533103198704137661,凌娜贞,32,Female,15274,45822,Medium,No Data,No Data,user
+331003200108038691,白磊斌,18,Male,22650,67950,Medium,No Data,No Data,user
+450202198103032570,双盛,38,Male,5829,13881,BlackList,Paying,house,user
+500233196706265417,李鹏,52,Male,2693,390,High,Applying,house,user
+530602199608136560,田卿茗,23,Female,8678,14539,BlackList,Fully Paid,house,user
+341201195512152109,权梦玉,64,Female,27788,83364,Medium,No Data,No Data,user
+152525195807180229,燕真,61,Female,12485,30846,BlackList,Applying,everyday life,user
+410481196612083070,卓松星,53,Male,16647,33064,Low,Fully Paid,vehicle,user
+430722198610316313,曹启士,33,Male,17621,40651,BlackList,Fully Paid,house,user
+321201198702198160,连影,32,Female,31881,73484,Excellent,Fully Paid,house,user
+513233199010244836,倪天文,29,Male,4771,9358,Critical,Paying,everyday life,user
+410902198712110993,陶维诚,32,Male,18662,43801,Medium,Paying,vehicle,user
+410702198505169746,羊黛,34,Female,5671,6981,High,Fully Paid,house,user
+420901196812061518,符林,51,Male,24596,73788,Medium,No Data,No Data,user
+230402196008192125,洪娴云,59,Female,23224,69672,Excellent,No Data,No Data,user
+441721195705165844,桑燕韵,62,Female,7415,22245,High,No Data,No Data,user
+610202197703051812,卞波河,42,Male,18223,32325,Medium,Fully Paid,everyday life,user
+411622200012155511,滕进政,19,Male,8062,24186,Low,No Data,No Data,user
+210782196508254114,越克,54,Male,7018,21054,High,No Data,No Data,user
+140430195901100556,通武,60,Male,18676,33117,Excellent,Applying,everyday life,user
+632522199208081001,储淑蓉,27,Female,29965,89895,Low,No Data,No Data,user
+230712199508141838,向世,24,Male,7756,23044,High,Fully Paid,vehicle,user
+421001197105267969,羿娅,48,Female,2761,8283,Low,No Data,No Data,user
+360830196801212630,阙广克,51,Male,25765,11501,Excellent,Fully Paid,tuition,user
+530402199509083756,江鹏,24,Male,5889,765,Excellent,Fully Paid,tuition,user
+621126199404048153,牧江,25,Male,27645,29653,Excellent,Paying,everyday life,user
+542132196007156497,胡栋天,59,Male,5672,10270,High,Paying,house,user
+652822199708082362,米婕珊,22,Female,4840,12230,BlackList,Fully Paid,house,user
+130828198802171264,劳悦,31,Female,23035,67157,Excellent,Applying,house,user
+321001197108229144,姚月婕,48,Female,3910,11730,Excellent,No Data,No Data,user
+430722198504302574,姚武,34,Male,7109,1218,Medium,Fully Paid,tuition,user
+350602196811068468,方雅,51,Female,20570,35561,Excellent,Fully Paid,house,user
+230421199909186631,能承顺,20,Male,23494,53016,Medium,Paying,vehicle,user
+230605196110052086,奚雅,58,Female,8856,26568,Critical,No Data,No Data,user
+331123197812210224,蔚嘉芝,41,Female,2245,5117,Medium,Fully Paid,vehicle,user
+150782199211090628,咸卿,27,Female,7765,23295,Excellent,No Data,No Data,user
+520330197403166864,池贞蓓,45,Female,9923,11243,Critical,Applying,house,user
+330621199206125484,叶静,27,Female,7126,21378,Medium,No Data,No Data,user
+361029198411017337,禄岩,35,Male,10291,30873,BlackList,No Data,No Data,user
+421303195810100086,程枫,61,Female,9204,27612,High,No Data,No Data,user
+530624198202273580,毛燕,37,Female,11679,15100,Low,Applying,house,user
+451023198310145593,都胜,36,Male,20303,60909,Medium,No Data,No Data,user
+430381195901128571,汲达泽,60,Male,24319,67210,Excellent,Paying,everyday life,user
+350702196205112564,伏爽,57,Female,25977,27475,BlackList,Paying,tuition,user
+430981196712151668,黄璐,52,Female,18580,55740,Critical,No Data,No Data,user
+430702195910313315,仲振,60,Male,22886,68658,Medium,No Data,No Data,user
+630103199504276523,羿梅,24,Female,2380,6669,High,Paying,everyday life,user
+410603196802182265,步琳舒,51,Female,23563,38459,High,Applying,vehicle,user
+210302198007154973,慕士,39,Male,16752,24733,Critical,Applying,house,user
+650105198912318878,叶朋,30,Male,28809,32199,BlackList,Paying,everyday life,user
+530602197512042338,万彪,44,Male,14669,6819,High,Applying,tuition,user
+411725200002276760,蒋荷,19,Female,12855,1093,BlackList,Applying,house,user
+140202199612289793,冯友亨,23,Male,23644,14470,Low,Fully Paid,house,user
+450403195801035150,臧梁,61,Male,26081,78243,Excellent,No Data,No Data,user
+360829198008176088,缪霄姣,39,Female,19807,20978,Low,Paying,tuition,user
+422827197802219380,骆燕,41,Female,26869,80607,BlackList,No Data,No Data,user
+150782195704093577,郗军裕,62,Male,31394,28125,Excellent,Applying,house,user
+371426196911097518,谢功,50,Male,3938,11016,Excellent,Applying,house,user
+320412199812319219,庚盛,20,Male,28922,67891,Medium,Paying,everyday life,user
+445122197110148872,羿时学,48,Male,14556,43668,High,No Data,No Data,user
+510626196005217249,罗黛香,59,Female,8433,25299,Low,No Data,No Data,user
+610524198003267138,班健,39,Male,5129,3229,High,Fully Paid,everyday life,user
+150201198004073063,芮真佳,39,Female,8867,17451,High,Paying,tuition,user
+450603200101245295,卓广善,18,Male,24803,74409,Low,No Data,No Data,user
+360723199405155455,郁平琛,25,Male,10450,31350,BlackList,No Data,No Data,user
+371524196905127565,袁秀萍,50,Female,29841,89523,Medium,No Data,No Data,user
+652825196705030235,奚坚,52,Male,14581,13928,Critical,Paying,everyday life,user
+610927199703020198,萧敬,22,Male,12403,14427,Low,Fully Paid,house,user
+350104196906059795,殳富飞,50,Male,22835,64930,Low,Fully Paid,vehicle,user
+371624198607130133,蒯庆,33,Male,28097,84291,Low,No Data,No Data,user
+370212197909049938,逄朋强,40,Male,15218,29180,High,Fully Paid,vehicle,user
+370322196605146382,梅伊,53,Female,20675,62025,BlackList,No Data,No Data,user
+330803197106305054,钱勇,48,Male,31671,95013,Critical,No Data,No Data,user
+610527199702281960,籍凤婉,22,Female,7811,23433,High,No Data,No Data,user
+430723198511023445,古琼岚,34,Female,4802,1548,Excellent,Applying,vehicle,user
+350305198909237760,杜菁娥,30,Female,28825,86475,Medium,No Data,No Data,user
+411302199702156244,富晶,22,Female,27246,81738,Excellent,No Data,No Data,user
+511703196006063057,米琛,59,Male,28258,84774,Low,No Data,No Data,user
+640301197712201367,敖萍可,42,Female,25542,29564,High,Applying,vehicle,user
+130321198310132856,勾敬毅,36,Male,28140,84420,High,No Data,No Data,user
+211121197909156087,糜昭,40,Female,9882,29646,Excellent,No Data,No Data,user
+542330199202211657,危国辰,27,Male,4596,146,Medium,Applying,everyday life,user
+431003198703247701,柯怡荔,32,Female,11476,25423,Medium,Fully Paid,house,user
+220723199109184010,苍文安,28,Male,12300,36900,Critical,No Data,No Data,user
+430522200011111234,闵利毅,19,Male,5541,15087,High,Applying,tuition,user
+511322199410044131,巴有毅,25,Male,5010,706,Excellent,Paying,vehicle,user
+140321196401047564,卫霭娴,55,Female,22214,51925,BlackList,Fully Paid,tuition,user
+230621196609050918,滑林,53,Male,16397,49191,Medium,No Data,No Data,user
+320105198206012447,穆琴瑗,37,Female,7797,23391,Medium,No Data,No Data,user
+500243196306293920,柳菲,56,Female,4656,6328,Critical,Applying,house,user
+330503197310124858,巴邦风,46,Male,12688,6820,Excellent,Applying,house,user
+542325199106129730,蔺栋山,28,Male,30960,92880,BlackList,No Data,No Data,user
+530111196308207152,武翔彪,56,Male,13894,34801,BlackList,Fully Paid,everyday life,user
+530901198708106225,杜妹,32,Female,5095,15285,Excellent,No Data,No Data,user
+610828198609299020,房竹琬,33,Female,25342,72880,Medium,Paying,house,user
+152524199703123842,林筠艳,22,Female,25401,76203,BlackList,No Data,No Data,user
+230231197309205874,盖辉生,46,Male,18764,56292,Excellent,No Data,No Data,user
+532931199803142232,广宏海,21,Male,28142,84426,Excellent,No Data,No Data,user
+231083198310102607,柳毓君,36,Female,16646,49938,BlackList,No Data,No Data,user
+152921197108070282,应竹,48,Female,18293,12453,Medium,Paying,house,user
+141182199002259103,卜妍,29,Female,16386,2362,Medium,Applying,vehicle,user
+220183195510088114,权毅,64,Male,31499,73557,BlackList,Applying,vehicle,user
+130101197206087790,宓辰才,47,Male,22597,67791,Low,No Data,No Data,user
+321182198909028047,国毓雪,30,Female,13847,41541,Excellent,No Data,No Data,user
+330104197511122361,方爱,44,Female,2630,4595,BlackList,Applying,vehicle,user
+630103195605310027,双芸,63,Female,23272,27404,Low,Paying,tuition,user
+330726199805177134,鲍信,21,Male,15278,45834,Excellent,No Data,No Data,user
+440883196607140282,咸韵锦,53,Female,2507,3790,Medium,Applying,tuition,user
+130637195712133308,曹玉倩,62,Female,28552,1202,Excellent,Fully Paid,tuition,user
+652101197201069737,熊有亨,47,Male,24640,73920,Low,No Data,No Data,user
+370684199309074478,童磊,26,Male,8648,2372,BlackList,Applying,everyday life,user
+450422200107228720,融凡晶,18,Female,16983,30689,High,Applying,house,user
+421125198412065532,贡保,35,Male,25824,77472,BlackList,No Data,No Data,user
+421122199102131896,宗时会,28,Male,20222,13416,Medium,Applying,house,user
+220821198301289493,季福,36,Male,26730,64153,High,Applying,house,user
+150304197701206784,成惠,42,Female,8998,26994,Critical,No Data,No Data,user
+370112197005110600,印莉,49,Female,12413,16689,Low,Applying,everyday life,user
+130634197608255045,狄巧,43,Female,15970,43847,Low,Applying,vehicle,user
+420682199110079908,明芬勤,28,Female,18800,56400,Medium,No Data,No Data,user
+320508197809304321,汲霞萍,41,Female,24037,72111,Low,No Data,No Data,user
+331124197610020557,查利进,43,Male,3488,10464,Excellent,No Data,No Data,user
+350305199707138360,陶云荷,22,Female,21916,65748,High,No Data,No Data,user
+370613199309152862,牛素,26,Female,3501,853,High,Applying,tuition,user
+410782195807240496,伊翔,61,Male,31675,95025,Excellent,No Data,No Data,user

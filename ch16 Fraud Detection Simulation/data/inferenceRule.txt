@@ -1,0 +1,4 @@
+[ruleSameBankAccount:(?a http://jena.something.com/HasBankAccount ?b) (?c http://jena.something.com/HasBankAccount ?b) notEqual(?a, ?c) -> (?a http://jena.something.com/hasSameBankAccount ?c)]
+[ruleSamePhoneNumber:(?a http://jena.something.com/HasPhoneNumber ?b) (?c http://jena.something.com/HasPhoneNumber ?b) notEqual(?a, ?c) -> (?a http://jena.something.com/hasSamePhoneNumber ?c)]
+[ruleSelfGuarantor:(?a http://jena.something.com/GuaranteedBy ?a)->(?a http://jena.something.com/SelfGuarantor ?a)]
+[ruleGuarantorLowerTrust:(?a http://jena.something.com/GuaranteedBy ?b) (?a http://jena.something.com/Trust ?as) (?b http://jena.something.com/Trust ?bs) lessThan(?as, ?bs) -> (?a http://jena.something.com/GuarantorLowerTrust ?b)]

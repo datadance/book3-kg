@@ -1,0 +1,8 @@
+position1	前排 前面 前方
+position2	后排 后面 后方
+action1	调高 调大 调热 增大 增高 增加
+action2	调低 调小 调冷 减小 降低
+action3	往前 靠前
+action4	往后 靠后
+action5	往上
+action6	往下

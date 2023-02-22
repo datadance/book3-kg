@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"DataGenerator"},{"p":"<Unnamed>","l":"FileIO"},{"p":"<Unnamed>","l":"GenerateStoreData"},{"p":"<Unnamed>","l":"Helper"},{"p":"<Unnamed>","l":"Inference"},{"p":"<Unnamed>","l":"MyInference"},{"l":"所有类","url":"allclasses-index.html"}]
